@@ -1,4 +1,4 @@
-# App
+# Gym Service Server (API REST)
 
 Gym Service style server. (simulating the GymPass service)
 
